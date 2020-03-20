@@ -1,4 +1,4 @@
-Acey from Hackersploit discord channel:
+# `Written by Acey:`
 
 Here is the compiled list of some of my findings, based on our topic in #web-app-pentesting 
 
@@ -139,7 +139,9 @@ Check if your browser is using tor (must be configured manually xP) https://chec
 
 
 ### Tor browser fingerprinting:
+
 http://jcarlosnorte.com/security/2016/03/06/advanced-tor-browser-fingerprinting.html
+
 https://www.helpnetsecurity.com/2016/03/11/fingerprint-tor-browser-users/
 
 Measures Tor has taken against these methods:
@@ -147,6 +149,7 @@ Measures Tor has taken against these methods:
 "There are many other changes that have been made to the Tor browser over the years to prevent the unique identification of users. Tor warns users when they maximize their browser window as it is also one attribute that can be used to identify them. It has introduced default fallback fonts to prevent font and canvas fingerprinting. It has all the JS clock sources and event timestamps set to a specific resolution to prevent JS from measuring the time intervals of things like typing to produce a fingerprint."
 
 "Talking about his contribution towards preventing browser fingerprinting, Laperdrix wrote, “As part of the effort to reduce fingerprinting, I also developed a fingerprinting website called FP Central to help Tor developers find fingerprint regressions between different Tor builds.”"
+
 --source: https://hub.packtpub.com/the-tor-project-on-browser-fingerprinting-and-how-it-is-taking-a-stand-against-it/
 
 ### Contribute:
