@@ -2,13 +2,11 @@
 
 Here is the compiled list of some of my findings, based on our topic in #web-app-pentesting.
 
-```
+**NOTE:**
 This is a summary of some of the information I found from online searches as
 well as articles and videos. None of this information is mine, and I could have
 easily made mistakes. This information could easily become outdated.
-Please take everything here with a grain of salt xP
-
-```
+Please take everything here with a grain of salt xP.
 
 # PART 1
 
